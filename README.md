@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on a laravel 10 + vue 3 project
 <!--
 **marckoxx/marckoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
